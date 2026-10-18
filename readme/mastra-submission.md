@@ -1,6 +1,6 @@
 # Proposed community integration: HappyHorse by Ace Data Cloud
 
-Prepared 2026-10-18; technical contribution request submitted at https://github.com/mastra-ai/mastra/issues/27373. Maintainer feedback and official admission are pending.
+Prepared 2026-10-18; technical contribution request submitted at https://github.com/mastra-ai/mastra/issues/27373. The maintainer closed this request on 2026-10-18 (Asia/Shanghai), stating that this is not being pursued now. No official admission was granted. Decision: https://github.com/mastra-ai/mastra/issues/27373#issuecomment-6239261501 . Independent ToolProvider distribution remains available.
 
 ## Integration surface
 
@@ -20,7 +20,7 @@ Proposed path, subject to maintainer feedback: `docs/src/content/en/integrations
 
 ## Contribution and admission gates
 
-Mastra's CONTRIBUTING.md requires a linked issue for every PR and maintainer feedback before a new feature PR. No public self-service ToolProvider marketplace uploader or arbitrary Connect admission manifest has been established. Do not invent one or equate npm publication with official listing. The shared request is awaiting maintainer feedback. Prepare an upstream documentation PR only after approval, package release, and real Studio visual verification. Do not submit a competing models.dev provider PR; #8873 has a separate owner.
+Mastra's CONTRIBUTING.md requires a linked issue for every PR and maintainer feedback before a new feature PR. No public self-service ToolProvider marketplace uploader or arbitrary Connect admission manifest has been established. Do not invent one or equate npm publication with official listing. The shared request is closed for now. Do not reopen, submit a duplicate request, or open an upstream PR against it without a new invitation or policy change. Continue the independent package/onboarding path; release and real Studio visual verification remain necessary. Do not submit a competing models.dev provider PR; #8873 has a separate owner.
 
 ## Free verification recipe for the UI owner
 
